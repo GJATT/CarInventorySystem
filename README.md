@@ -1,0 +1,1 @@
+Engineered a comprehensive, streamlined Car Inventory System for a dealership using MySQL for database management and Python for the GUI, designing a normalized database schema to store and retrieve vehicle details efficiently.
